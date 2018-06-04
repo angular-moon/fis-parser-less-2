@@ -1,9 +1,8 @@
 {
-    "name" : "fis-parser-less-2.x",
+    "name" : "fis-parser-less-2",
     "description" : "A parser for fis to compile less(v2.x) file.",
     "version" : "0.1.4",
-    "author" : "FIS Team <fis@baidu.com>",
-    "homepage" : "https://github.com/fouber/fis-parser-less",
+    "homepage" : "https://github.com/angular-moon/fis-parser-less-2",
     "keywords": [ "fis", "less" ],
     "license": "MIT",
     "main" : "index.js",
