@@ -1,5 +1,5 @@
 {
-    "name" : "fis-parser-less-2",
+    "name" : "fis3-parser-less-gmsoft",
     "description" : "A parser for fis to compile less(v2.x) file.",
     "version" : "0.1.4",
     "homepage" : "https://github.com/angular-moon/fis-parser-less-2",
